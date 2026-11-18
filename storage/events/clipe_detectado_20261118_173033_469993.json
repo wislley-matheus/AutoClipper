@@ -1,0 +1,359 @@
+{
+  "event": "Clipe Detectado",
+  "timestamp": "2026-11-18T17:30:33.469993+00:00",
+  "channel": "gaules",
+  "metrics": {
+    "interval_seconds": 5.0,
+    "current_interval_messages": 31,
+    "normal_moving_average": 1.0,
+    "spike_ratio": 31.0,
+    "threshold_multiplier": 3.0
+  },
+  "total_messages_saved": 31,
+  "messages": [
+    {
+      "author": "hype_train_conductor",
+      "text": "quem ta ganhando?",
+      "timestamp": "2026-11-18T17:30:28.408921+00:00",
+      "id": "539ed72f-bdc9-4321-9409-919978a60100",
+      "emotes": [],
+      "bits": 0,
+      "is_subscriber": true,
+      "is_moderator": false
+    },
+    {
+      "author": "hype_train_conductor",
+      "text": "boa tarde chat",
+      "timestamp": "2026-11-18T17:30:28.660216+00:00",
+      "id": "7abddff9-567c-47a9-8aa7-d3b6ec9fede5",
+      "emotes": [],
+      "bits": 0,
+      "is_subscriber": true,
+      "is_moderator": false
+    },
+    {
+      "author": "clip_maker",
+      "text": "JA VAI PRO TIKTOK ESSE CLIPE",
+      "timestamp": "2026-11-18T17:30:28.911149+00:00",
+      "id": "95ac4064-7ef3-430a-b37f-2b493a6dd3c5",
+      "emotes": [
+        "KEKW"
+      ],
+      "bits": 100,
+      "is_subscriber": true,
+      "is_moderator": false
+    },
+    {
+      "author": "pog_master",
+      "text": "CLIPAAAAAAAAAAAAAAAA",
+      "timestamp": "2026-11-18T17:30:28.992045+00:00",
+      "id": "d398c6b4-d56d-4614-8c80-be820e53d582",
+      "emotes": [
+        "PogChamp"
+      ],
+      "bits": 0,
+      "is_subscriber": true,
+      "is_moderator": false
+    },
+    {
+      "author": "sub_twelve_months",
+      "text": "CLIP IT QUICK POGGERS",
+      "timestamp": "2026-11-18T17:30:29.073004+00:00",
+      "id": "adeef91e-463f-4f62-a3bb-3b65fd35e912",
+      "emotes": [
+        "BibleThump"
+      ],
+      "bits": 0,
+      "is_subscriber": true,
+      "is_moderator": false
+    },
+    {
+      "author": "csgo_fan_99",
+      "text": "JA VAI PRO TIKTOK ESSE CLIPE",
+      "timestamp": "2026-11-18T17:30:29.153844+00:00",
+      "id": "0691ac57-09d5-440d-95f3-96f7d545fe65",
+      "emotes": [
+        "EZ"
+      ],
+      "bits": 500,
+      "is_subscriber": false,
+      "is_moderator": false
+    },
+    {
+      "author": "sub_twelve_months",
+      "text": "GGGGGGGGGGGGGGGGGGGGGGGGGG",
+      "timestamp": "2026-11-18T17:30:29.234755+00:00",
+      "id": "81779000-12e8-4f06-9c84-9e0cc14e316a",
+      "emotes": [
+        "KEKW"
+      ],
+      "bits": 0,
+      "is_subscriber": false,
+      "is_moderator": false
+    },
+    {
+      "author": "chat_spammer",
+      "text": "CLIP IT QUICK POGGERS",
+      "timestamp": "2026-11-18T17:30:29.315604+00:00",
+      "id": "72ff068b-47af-4898-a668-6c50bd6bdcc0",
+      "emotes": [
+        "Clap"
+      ],
+      "bits": 100,
+      "is_subscriber": true,
+      "is_moderator": false
+    },
+    {
+      "author": "hype_train_conductor",
+      "text": "CLIPAAAAAAAAAAAAAAAA",
+      "timestamp": "2026-11-18T17:30:29.396507+00:00",
+      "id": "c10facb9-5c9d-46e0-8cc7-262d41530b7b",
+      "emotes": [
+        "LUL"
+      ],
+      "bits": 0,
+      "is_subscriber": false,
+      "is_moderator": false
+    },
+    {
+      "author": "stream_lurker",
+      "text": "JA VAI PRO TIKTOK ESSE CLIPE",
+      "timestamp": "2026-11-18T17:30:29.476971+00:00",
+      "id": "621736df-65b7-471a-a834-49d648c1a10a",
+      "emotes": [
+        "KEKW"
+      ],
+      "bits": 0,
+      "is_subscriber": true,
+      "is_moderator": false
+    },
+    {
+      "author": "sub_twelve_months",
+      "text": "CLIP IT QUICK POGGERS",
+      "timestamp": "2026-11-18T17:30:29.557781+00:00",
+      "id": "e39aaad4-37e5-445d-886b-2c4d7154c7f8",
+      "emotes": [
+        "LUL"
+      ],
+      "bits": 100,
+      "is_subscriber": false,
+      "is_moderator": false
+    },
+    {
+      "author": "fps_enjoyer",
+      "text": "MEU DEUS DO CEU POGCHAMP",
+      "timestamp": "2026-11-18T17:30:29.638702+00:00",
+      "id": "0ea01cb5-f3c4-43a1-a264-0f3f8bd0e0fb",
+      "emotes": [
+        "BibleThump"
+      ],
+      "bits": 0,
+      "is_subscriber": true,
+      "is_moderator": false
+    },
+    {
+      "author": "fallen_god",
+      "text": "CLIPAAAAAAAAAAAAAAAA",
+      "timestamp": "2026-11-18T17:30:29.719680+00:00",
+      "id": "e1d94ec5-bd9e-4641-9073-0884b2e37a61",
+      "emotes": [
+        "PogChamp"
+      ],
+      "bits": 0,
+      "is_subscriber": true,
+      "is_moderator": false
+    },
+    {
+      "author": "sub_twelve_months",
+      "text": "CLIP IT QUICK POGGERS",
+      "timestamp": "2026-11-18T17:30:29.800477+00:00",
+      "id": "fc83c9ca-4ae6-4c73-acf3-6a905c73ddff",
+      "emotes": [
+        "Clap"
+      ],
+      "bits": 500,
+      "is_subscriber": true,
+      "is_moderator": false
+    },
+    {
+      "author": "clip_maker",
+      "text": "GGGGGGGGGGGGGGGGGGGGGGGGGG",
+      "timestamp": "2026-11-18T17:30:29.881475+00:00",
+      "id": "1321b149-7e55-46a8-8a2c-441034439fbd",
+      "emotes": [
+        "monkaS"
+      ],
+      "bits": 500,
+      "is_subscriber": true,
+      "is_moderator": false
+    },
+    {
+      "author": "sub_twelve_months",
+      "text": "JOGOU O FINO DO CS",
+      "timestamp": "2026-11-18T17:30:29.962034+00:00",
+      "id": "0119c77b-4797-44a4-a5d2-c777aced516d",
+      "emotes": [
+        "EZ"
+      ],
+      "bits": 0,
+      "is_subscriber": false,
+      "is_moderator": false
+    },
+    {
+      "author": "fps_enjoyer",
+      "text": "GGGGGGGGGGGGGGGGGGGGGGGGGG",
+      "timestamp": "2026-11-18T17:30:30.043058+00:00",
+      "id": "2a70f407-b8e9-420d-a4c6-efe5b12ea31c",
+      "emotes": [
+        "EZ"
+      ],
+      "bits": 500,
+      "is_subscriber": true,
+      "is_moderator": false
+    },
+    {
+      "author": "gamer_pro_br",
+      "text": "1v4 CLUTCH GOD",
+      "timestamp": "2026-11-18T17:30:30.123981+00:00",
+      "id": "e94b46f6-e428-4815-bc8e-9e980ff0dc1f",
+      "emotes": [
+        "KEKW"
+      ],
+      "bits": 0,
+      "is_subscriber": false,
+      "is_moderator": false
+    },
+    {
+      "author": "pog_master",
+      "text": "gg demais",
+      "timestamp": "2026-11-18T17:30:30.456241+00:00",
+      "id": "b2453ea3-873b-4655-b65a-f55d03966e7f",
+      "emotes": [],
+      "bits": 0,
+      "is_subscriber": true,
+      "is_moderator": false
+    },
+    {
+      "author": "fallen_god",
+      "text": "qual é a mira que ele usa?",
+      "timestamp": "2026-11-18T17:30:30.707970+00:00",
+      "id": "34330121-7230-4ede-90a7-e4216ed27de5",
+      "emotes": [],
+      "bits": 0,
+      "is_subscriber": true,
+      "is_moderator": false
+    },
+    {
+      "author": "fps_enjoyer",
+      "text": "vai comecar o proximo mapa?",
+      "timestamp": "2026-11-18T17:30:30.959063+00:00",
+      "id": "54095a48-db1d-4f02-a843-3b48e803dfd5",
+      "emotes": [],
+      "bits": 0,
+      "is_subscriber": false,
+      "is_moderator": false
+    },
+    {
+      "author": "mod_pedro",
+      "text": "salve tribo!",
+      "timestamp": "2026-11-18T17:30:31.210055+00:00",
+      "id": "ffd8655d-718b-4a28-abc0-8a95ac927a92",
+      "emotes": [],
+      "bits": 0,
+      "is_subscriber": false,
+      "is_moderator": false
+    },
+    {
+      "author": "mod_pedro",
+      "text": "quem ta ganhando?",
+      "timestamp": "2026-11-18T17:30:31.461004+00:00",
+      "id": "b81c6da3-34ed-4cde-a4be-0147893344a1",
+      "emotes": [],
+      "bits": 100,
+      "is_subscriber": true,
+      "is_moderator": false
+    },
+    {
+      "author": "csgo_fan_99",
+      "text": "salve tribo!",
+      "timestamp": "2026-11-18T17:30:31.712054+00:00",
+      "id": "5b2c13a3-2140-4a05-b6dc-2802e7e4395c",
+      "emotes": [],
+      "bits": 0,
+      "is_subscriber": true,
+      "is_moderator": false
+    },
+    {
+      "author": "sub_twelve_months",
+      "text": "partida tá insana hoje",
+      "timestamp": "2026-11-18T17:30:31.962993+00:00",
+      "id": "a1817c88-0356-4912-9ede-fe294fe0ca45",
+      "emotes": [],
+      "bits": 0,
+      "is_subscriber": false,
+      "is_moderator": false
+    },
+    {
+      "author": "tribo_gaules",
+      "text": "salve tribo!",
+      "timestamp": "2026-11-18T17:30:32.214004+00:00",
+      "id": "b614381f-c233-4895-b519-7cc4692876c7",
+      "emotes": [],
+      "bits": 0,
+      "is_subscriber": false,
+      "is_moderator": false
+    },
+    {
+      "author": "chat_spammer",
+      "text": "respeita a historia",
+      "timestamp": "2026-11-18T17:30:32.465078+00:00",
+      "id": "af1e4927-183a-484b-a809-b49655ef5b7b",
+      "emotes": [],
+      "bits": 0,
+      "is_subscriber": true,
+      "is_moderator": false
+    },
+    {
+      "author": "chat_spammer",
+      "text": "gg demais",
+      "timestamp": "2026-11-18T17:30:32.715921+00:00",
+      "id": "876bd3b2-f5de-4944-951d-43cb7e0a054d",
+      "emotes": [],
+      "bits": 0,
+      "is_subscriber": false,
+      "is_moderator": false
+    },
+    {
+      "author": "stream_lurker",
+      "text": "respeita a historia",
+      "timestamp": "2026-11-18T17:30:32.967493+00:00",
+      "id": "704ff0a5-0de1-4af8-b625-6eb53f5144c2",
+      "emotes": [
+        "KEKW"
+      ],
+      "bits": 0,
+      "is_subscriber": true,
+      "is_moderator": false
+    },
+    {
+      "author": "gamer_pro_br",
+      "text": "vai comecar o proximo mapa?",
+      "timestamp": "2026-11-18T17:30:33.219049+00:00",
+      "id": "6c8ff764-3022-48bc-aaa1-d17f91a9071d",
+      "emotes": [],
+      "bits": 0,
+      "is_subscriber": true,
+      "is_moderator": false
+    },
+    {
+      "author": "stream_lurker",
+      "text": "o time dele ta jogando bem",
+      "timestamp": "2026-11-18T17:30:33.469993+00:00",
+      "id": "73325d35-c72e-4dd6-a9c4-720bdd0a086c",
+      "emotes": [],
+      "bits": 0,
+      "is_subscriber": true,
+      "is_moderator": false
+    }
+  ]
+}
